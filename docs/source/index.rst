@@ -16,6 +16,8 @@ how to :ref:`installation` the project.
 Contents
 --------
 
+你是一只小青蛙，呱呱呱呱呱
+
 .. toctree::
 
    usage
